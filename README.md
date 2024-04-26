@@ -4,8 +4,7 @@ Proyecto de Portafolio Profesional
 Siéntete libre de explorar y contactarme si tienes alguna pregunta o oportunidad de colaboración.
 
 ¡Gracias por visitar!
-
-[Tu Nombre]
+Armando Rivera
 
 👋 Hi, I’m @SkyRivera
 👀 I’m interested in in artificial intelligence and data science, areas where I'm constantly learning and growing.
